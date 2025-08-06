@@ -1,4 +1,4 @@
-<img align="right" src="https://www.google.com/search?q=https://placehold.co/200x200/E2D6FF/5D38A6%3Ftext%3DYour\nImage\nHere" width="200" />
+<img align="right" src="[https://www.google.com/search?q=https://placehold.co/200x200/E2D6FF/5D38A6%3Ftext%3DYour\nImage\nHere](https://github.com/mahima-pereira/mahima-pereira/blob/main/WhatsApp%20Image%202024-04-05%20at%2022.33.01_0af60cdd.jpg)" width="200" />
 
 Hi there, I'm Mahima Dorcas Pereira <img src="https://www.google.com/search?q=https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-waving.gif%3F1531849430" width="30px"/>
 A passionate AI Developer and Data Analyst from Bengaluru.
